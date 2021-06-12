@@ -1,7 +1,7 @@
 {
   "name": "tabledemo",
   "version": "0.1.0",
-  "homepage": "https://github.com/Dgarza0413/github-pages-demo",
+  "homepage": "https://dgarza0413.github.io/github-pages-demo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
