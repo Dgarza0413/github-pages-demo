@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Dgarza0413/github-pages-demo/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Dgarza0413/github-pages-demo/static/js/main.e32385d7.chunk.js",
-    "main.js.map": "/Dgarza0413/github-pages-demo/static/js/main.e32385d7.chunk.js.map",
-    "runtime-main.js": "/Dgarza0413/github-pages-demo/static/js/runtime-main.2bfa24d5.js",
-    "runtime-main.js.map": "/Dgarza0413/github-pages-demo/static/js/runtime-main.2bfa24d5.js.map",
-    "static/js/2.59dfb443.chunk.js": "/Dgarza0413/github-pages-demo/static/js/2.59dfb443.chunk.js",
-    "static/js/2.59dfb443.chunk.js.map": "/Dgarza0413/github-pages-demo/static/js/2.59dfb443.chunk.js.map",
-    "static/js/3.9a1ed1c8.chunk.js": "/Dgarza0413/github-pages-demo/static/js/3.9a1ed1c8.chunk.js",
-    "static/js/3.9a1ed1c8.chunk.js.map": "/Dgarza0413/github-pages-demo/static/js/3.9a1ed1c8.chunk.js.map",
-    "index.html": "/Dgarza0413/github-pages-demo/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/Dgarza0413/github-pages-demo/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.59dfb443.chunk.js.LICENSE.txt": "/Dgarza0413/github-pages-demo/static/js/2.59dfb443.chunk.js.LICENSE.txt"
+    "main.css": "/github-pages-demo/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/github-pages-demo/static/js/main.e32385d7.chunk.js",
+    "main.js.map": "/github-pages-demo/static/js/main.e32385d7.chunk.js.map",
+    "runtime-main.js": "/github-pages-demo/static/js/runtime-main.cdcdc9fe.js",
+    "runtime-main.js.map": "/github-pages-demo/static/js/runtime-main.cdcdc9fe.js.map",
+    "static/js/2.59dfb443.chunk.js": "/github-pages-demo/static/js/2.59dfb443.chunk.js",
+    "static/js/2.59dfb443.chunk.js.map": "/github-pages-demo/static/js/2.59dfb443.chunk.js.map",
+    "static/js/3.9a1ed1c8.chunk.js": "/github-pages-demo/static/js/3.9a1ed1c8.chunk.js",
+    "static/js/3.9a1ed1c8.chunk.js.map": "/github-pages-demo/static/js/3.9a1ed1c8.chunk.js.map",
+    "index.html": "/github-pages-demo/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/github-pages-demo/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.59dfb443.chunk.js.LICENSE.txt": "/github-pages-demo/static/js/2.59dfb443.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bfa24d5.js",
+    "static/js/runtime-main.cdcdc9fe.js",
     "static/js/2.59dfb443.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.e32385d7.chunk.js"
